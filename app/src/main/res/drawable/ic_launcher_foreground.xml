@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center a bold botanical leaf illustration in the 108x108 viewport -->
+    <path
+        android:fillColor="#F1EDE6"
+        android:pathData="M54,24C54,24 28,42 28,64C28,78.36 39.64,90 54,90C68.36,90 80,78.36 80,64C80,42 54,24 54,24ZM54,84C42.95,84 34,75.05 34,64C34,48.24 54,32.22 54,32.22C54,32.22 74,48.24 74,64C74,75.05 65.05,84 54,84Z" />
+    <path
+        android:fillColor="#DCA91D"
+        android:pathData="M54,38C54,38 42,50 42,64C42,70.63 47.37,76 54,76C60.63,76 66,70.63 66,64C66,50 54,38 54,38ZM54,70C50.69,70 48,67.31 48,64C48,55.5 54,47.5 54,47.5C54,47.5 60,55.5 60,64C60,67.31 57.31,70 54,70Z" />
+</vector>

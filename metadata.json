@@ -1,0 +1,6 @@
+{
+  "name": "Endemik Flora",
+  "description": "Türkiye'nin endemik bitkileri ve baharatları için interaktif yetiştirme rehberi ve yapay zeka botanik asistanı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
